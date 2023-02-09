@@ -8,6 +8,12 @@ public class TEST1 {
 		
 				System.out.println("Hi this is Example file , statement -1");
 				System.out.println("Hi this is Example file, statement-2");
+				System.out.println("Hi this is Example file, statement-3");
+
+				System.out.println("Hi this is Example file, statement-4");
+
+				System.out.println("Hi this is Example file, statement-5");
+
 
 
 	}

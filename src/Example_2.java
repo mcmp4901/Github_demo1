@@ -9,6 +9,10 @@ public class Example_2 {
 		c =  a+b;
 		System.out.println("addition of two numbers:"+c);
 		System.out.println("Statement end of Example-02");
+		System.out.println("Statement end of Example-03");
+		
+		System.out.println("Statement end of Example-04");
+		
 		
 
 	}
