@@ -12,6 +12,8 @@ public class Example_2 {
 		System.out.println("Statement end of Example-03");
 		
 		System.out.println("Statement end of Example-04");
+		System.out.println("Statement end of Example-05");
+		
 		
 		
 
