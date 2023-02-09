@@ -13,6 +13,9 @@ public class TEST1 {
 				System.out.println("Hi this is Example file, statement-4");
 
 				System.out.println("Hi this is Example file, statement-5");
+				System.out.println("Hi this is Example file, statement-6");
+				System.out.println("Hi this is Example file, statement-7");
+				
 
 
 
